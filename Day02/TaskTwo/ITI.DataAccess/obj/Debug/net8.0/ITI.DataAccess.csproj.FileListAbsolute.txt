@@ -1,0 +1,13 @@
+D:\Technical Materials\ADO\Task\Day02\TaskTwo\ITI.DataAccess\bin\Debug\net8.0\ITI.DataAccess.dll.config
+D:\Technical Materials\ADO\Task\Day02\TaskTwo\ITI.DataAccess\bin\Debug\net8.0\ITI.DataAccess.deps.json
+D:\Technical Materials\ADO\Task\Day02\TaskTwo\ITI.DataAccess\bin\Debug\net8.0\ITI.DataAccess.dll
+D:\Technical Materials\ADO\Task\Day02\TaskTwo\ITI.DataAccess\bin\Debug\net8.0\ITI.DataAccess.pdb
+D:\Technical Materials\ADO\Task\Day02\TaskTwo\ITI.DataAccess\obj\Debug\net8.0\ITI.DataAccess.csproj.AssemblyReference.cache
+D:\Technical Materials\ADO\Task\Day02\TaskTwo\ITI.DataAccess\obj\Debug\net8.0\ITI.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Technical Materials\ADO\Task\Day02\TaskTwo\ITI.DataAccess\obj\Debug\net8.0\ITI.DataAccess.AssemblyInfoInputs.cache
+D:\Technical Materials\ADO\Task\Day02\TaskTwo\ITI.DataAccess\obj\Debug\net8.0\ITI.DataAccess.AssemblyInfo.cs
+D:\Technical Materials\ADO\Task\Day02\TaskTwo\ITI.DataAccess\obj\Debug\net8.0\ITI.DataAccess.csproj.CoreCompileInputs.cache
+D:\Technical Materials\ADO\Task\Day02\TaskTwo\ITI.DataAccess\obj\Debug\net8.0\ITI.DataAccess.dll
+D:\Technical Materials\ADO\Task\Day02\TaskTwo\ITI.DataAccess\obj\Debug\net8.0\refint\ITI.DataAccess.dll
+D:\Technical Materials\ADO\Task\Day02\TaskTwo\ITI.DataAccess\obj\Debug\net8.0\ITI.DataAccess.pdb
+D:\Technical Materials\ADO\Task\Day02\TaskTwo\ITI.DataAccess\obj\Debug\net8.0\ref\ITI.DataAccess.dll

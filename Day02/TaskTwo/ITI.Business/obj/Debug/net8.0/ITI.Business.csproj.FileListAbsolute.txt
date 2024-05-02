@@ -1,0 +1,16 @@
+D:\Technical Materials\ADO\Task\Day02\TaskTwo\ITI.Business\bin\Debug\net8.0\ITI.Business.deps.json
+D:\Technical Materials\ADO\Task\Day02\TaskTwo\ITI.Business\bin\Debug\net8.0\ITI.Business.dll
+D:\Technical Materials\ADO\Task\Day02\TaskTwo\ITI.Business\bin\Debug\net8.0\ITI.Business.pdb
+D:\Technical Materials\ADO\Task\Day02\TaskTwo\ITI.Business\bin\Debug\net8.0\ITI.DataAccess.dll
+D:\Technical Materials\ADO\Task\Day02\TaskTwo\ITI.Business\bin\Debug\net8.0\ITI.DataAccess.pdb
+D:\Technical Materials\ADO\Task\Day02\TaskTwo\ITI.Business\bin\Debug\net8.0\ITI.DataAccess.dll.config
+D:\Technical Materials\ADO\Task\Day02\TaskTwo\ITI.Business\obj\Debug\net8.0\ITI.Business.csproj.AssemblyReference.cache
+D:\Technical Materials\ADO\Task\Day02\TaskTwo\ITI.Business\obj\Debug\net8.0\ITI.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Technical Materials\ADO\Task\Day02\TaskTwo\ITI.Business\obj\Debug\net8.0\ITI.Business.AssemblyInfoInputs.cache
+D:\Technical Materials\ADO\Task\Day02\TaskTwo\ITI.Business\obj\Debug\net8.0\ITI.Business.AssemblyInfo.cs
+D:\Technical Materials\ADO\Task\Day02\TaskTwo\ITI.Business\obj\Debug\net8.0\ITI.Business.csproj.CoreCompileInputs.cache
+D:\Technical Materials\ADO\Task\Day02\TaskTwo\ITI.Business\obj\Debug\net8.0\ITI.Business.csproj.CopyComplete
+D:\Technical Materials\ADO\Task\Day02\TaskTwo\ITI.Business\obj\Debug\net8.0\ITI.Business.dll
+D:\Technical Materials\ADO\Task\Day02\TaskTwo\ITI.Business\obj\Debug\net8.0\refint\ITI.Business.dll
+D:\Technical Materials\ADO\Task\Day02\TaskTwo\ITI.Business\obj\Debug\net8.0\ITI.Business.pdb
+D:\Technical Materials\ADO\Task\Day02\TaskTwo\ITI.Business\obj\Debug\net8.0\ref\ITI.Business.dll
